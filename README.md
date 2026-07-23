@@ -22,12 +22,7 @@ The system combines backend services, financial data ingestion, AI agents and a 
 
 ### Core backend services
 
-- [`transactions-api`](https://github.com/pacama95/transactions-api)  
-  Transaction-focused backend service. User transaction operations are sent here from the frontend, and those transactions act as the source of portfolio events.
-
-- [`portfolio-api`](https://github.com/pacama95/portfolio-api)  
-  Main portfolio API built with Java 21, Quarkus, PostgreSQL and MCP support.  
-  It consumes transaction events to build and expose the current portfolio positions and state.
+- TBD
 
 ### Supporting APIs
 
